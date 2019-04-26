@@ -1,5 +1,7 @@
 # hyper_config
 
+![Hyper_term](https://user-images.githubusercontent.com/40288838/56797277-a649cd80-6814-11e9-9a11-d252d49544b1.PNG)
+
 My hyper config under:
 - Note that you can find your configuration file in C:\\\\User\\\\`{profile_name}`\\\\.hyper.js
 - Or in hyper `Edit` => `Preferences`. Shortcut `Ctrl + ,`
