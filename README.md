@@ -164,3 +164,6 @@ module.exports = {
 Thanks to those guys :  
 - [Supercharging PowerShell with Hyper, Oh-my-posh and Posh-git](https://taraksharma.com/supercharging-powershell-with-hyper-oh-my-posh-posh-git/)
 - [Configuring Hyper Terminal in Windows ](https://dev.to/droidmakk/configuring-hyper-terminal-in-windows-3j15)
+
+If you want to install zsh and Oh-My-Zsh : 
+- [How to Install Zsh and Oh My Zsh on Windows 10 ](https://evdokimovm.github.io/windows/zsh/shell/syntax/highlighting/ohmyzsh/hyper/terminal/2017/02/24/how-to-install-zsh-and-oh-my-zsh-on-windows-10.html)
