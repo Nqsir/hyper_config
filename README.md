@@ -1,11 +1,21 @@
 # hyper_config
-Hyper Terminal, hyper website : (https://hyper.is/)
+My Term using Windows, fast and user-friendly
 
 ![Hyper_term](https://user-images.githubusercontent.com/40288838/56797277-a649cd80-6814-11e9-9a11-d252d49544b1.PNG)
 
-My hyper config under:
-- Note that you can find your configuration file in C:\\\\User\\\\`{profile_name}`\\\\.hyper.js or C:\\\\User\\\\`{profile_name}`\\\\AppData\\\\Roaming\\\\Hyper\\\\.hyper.js
+**Install Hyper**
+- [hyper](https://hyper.is/)
+
+**Install Git**
+- [Git](https://git-scm.com/)
+
+Note that you can find your Hyper configuration file in
+- C:\\\\User\\\\`{profile_name}`\\\\.hyper.js
+- Or C:\\\\User\\\\`{profile_name}`\\\\AppData\\\\Roaming\\\\Hyper\\\\.hyper.js
 - Or in hyper `Edit` => `Preferences`. Shortcut `Ctrl + ,`
+
+My hyper config below:
+
 ```
 // Future versions of Hyper may add additional config options,
 // which will not automatically be merged into this file.
@@ -161,9 +171,9 @@ module.exports = {
 };
 ```
 
-Thanks to those guys :  
-- [Supercharging PowerShell with Hyper, Oh-my-posh and Posh-git](https://taraksharma.com/supercharging-powershell-with-hyper-oh-my-posh-posh-git/)
+Thanks to those guys :
 - [Configuring Hyper Terminal in Windows ](https://dev.to/droidmakk/configuring-hyper-terminal-in-windows-3j15)
 
-If you want to install zsh and Oh-My-Zsh : 
+If you want to install zsh and Oh-My-Zsh : => Didn't chose that one because it looks disgusting on windows even when changing the `$PS1` variable on bash...
+
 - [How to Install Zsh and Oh My Zsh on Windows 10 ](https://evdokimovm.github.io/windows/zsh/shell/syntax/highlighting/ohmyzsh/hyper/terminal/2017/02/24/how-to-install-zsh-and-oh-my-zsh-on-windows-10.html)
