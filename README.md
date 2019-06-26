@@ -4,7 +4,7 @@ Hyper Terminal, hyper website : (https://hyper.is/)
 ![Hyper_term](https://user-images.githubusercontent.com/40288838/56797277-a649cd80-6814-11e9-9a11-d252d49544b1.PNG)
 
 My hyper config under:
-- Note that you can find your configuration file in C:\\\\User\\\\`{profile_name}`\\\\.hyper.js
+- Note that you can find your configuration file in C:\\\\User\\\\`{profile_name}`\\\\.hyper.js or C:\\\\User\\\\`{profile_name}`\\\\AppData\\\\Roaming\\\\Hyper\\\\.hyper.js
 - Or in hyper `Edit` => `Preferences`. Shortcut `Ctrl + ,`
 ```
 // Future versions of Hyper may add additional config options,
