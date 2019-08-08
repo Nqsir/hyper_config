@@ -172,8 +172,12 @@ module.exports = {
 ```
 
 Thanks to those guys :
+Configuring Hyper Terminal in Windows:
 - [Configuring Hyper Terminal in Windows ](https://dev.to/droidmakk/configuring-hyper-terminal-in-windows-3j15)
 
-If you want to install zsh and Oh-My-Zsh : => Didn't chose that one because it doesn't look good on windows even when changing the `$PS1` variable on bash...
+How To Customize The Git For Windows Bash Shell Prompt:
+- [Configuring $PS1 in Git_bash](https://alanbarber.com/post/how-to-customize-the-git-for-windows-bash-shell-prompt/)
 
+How to Install Zsh and Oh My Zsh on Windows 10:
 - [How to Install Zsh and Oh My Zsh on Windows 10 ](https://evdokimovm.github.io/windows/zsh/shell/syntax/highlighting/ohmyzsh/hyper/terminal/2017/02/24/how-to-install-zsh-and-oh-my-zsh-on-windows-10.html)
+*Didn't chose that one because it doesn't look good on windows even when changing the `$PS1` bash variable...*
