@@ -1,7 +1,7 @@
 # hyper_config
 My Term using Windows, fast and user-friendly
 
-![Hyper_term](https://user-images.githubusercontent.com/40288838/56797277-a649cd80-6814-11e9-9a11-d252d49544b1.PNG)
+![Hyper_term](https://user-images.githubusercontent.com/40288838/62685438-f95e1f80-b9c2-11e9-8ea7-ffa583fe8754.PNG)
 
 **Install Hyper**
 - [hyper](https://hyper.is/)
